@@ -27,3 +27,10 @@ project-root/
 │── images/
 │── scripts/
 │── README.md
+
+## Design Preview
+![Profile Page Preview](./images/design-preview.png)
+
+> *Screenshot of the personal profile webpage*
+
+
