@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "advanced css project",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "advanced css project"
+  }
+}
